@@ -29,6 +29,7 @@ RAG 数据准备流程（Retrieval 数据链路）
 FAISS / Milvus / Pinecone / Weaviate
 提供高效的相似度搜索（Top-K）
 用于 RAG 检索阶段快速找到相关文本块
+
 下面是rag的检索部分
 用户问题（Query）
         ↓
